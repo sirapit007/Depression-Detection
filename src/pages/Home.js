@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import './Page.css';
 import pic1 from '../images/new1.png'
 import pic2 from '../images/new2.png'
@@ -10,6 +10,10 @@ import pic7 from '../images/new7.png'
 import pic8 from '../images/new8.png'
 
 function Home() {
+  useEffect(() => {
+    document.title = 'Depression Detection';
+  }, []);
+
   return (
     <div className='home'>
       <div className='to'>
