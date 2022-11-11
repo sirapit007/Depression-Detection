@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Depression-Detection/static/css/main.281233f2.css",
+    "main.js": "/Depression-Detection/static/js/main.df3aaaf8.js",
+    "static/media/new6.png": "/Depression-Detection/static/media/new6.b5f8203953549c6fde35.png",
+    "static/media/new5.png": "/Depression-Detection/static/media/new5.916817fcf425207919e2.png",
+    "static/media/new3.png": "/Depression-Detection/static/media/new3.6197cad49bb1c07ca5f3.png",
+    "static/media/new1.png": "/Depression-Detection/static/media/new1.827d4a8b63faf438e540.png",
+    "static/media/new7.png": "/Depression-Detection/static/media/new7.aa2d54e82f6fca0a156b.png",
+    "static/media/new2.png": "/Depression-Detection/static/media/new2.ae6e8830da22922a2d99.png",
+    "static/media/new4.png": "/Depression-Detection/static/media/new4.9f80c5fbc83eca9b3e9f.png",
+    "static/media/new8.png": "/Depression-Detection/static/media/new8.32e29c9714cff1c3c019.png",
+    "index.html": "/Depression-Detection/index.html",
+    "main.281233f2.css.map": "/Depression-Detection/static/css/main.281233f2.css.map",
+    "main.df3aaaf8.js.map": "/Depression-Detection/static/js/main.df3aaaf8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.281233f2.css",
+    "static/js/main.df3aaaf8.js"
+  ]
+}
